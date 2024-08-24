@@ -8,4 +8,5 @@ if age >= 18:
 
 print(1444)
 print(2444)
-print(3444)
+print(456)
+print(789)
