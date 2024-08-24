@@ -16,3 +16,6 @@ a = 12
 b = 14
 j = a + b
 print(j)
+
+if j == 0:
+    print("say lol")
