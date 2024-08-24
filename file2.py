@@ -10,3 +10,9 @@ print(1444)
 print(2444)
 print(456)
 print(789)
+
+
+a = 12
+b = 14
+j = a + b
+print(j)
